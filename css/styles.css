@@ -10144,3 +10144,6 @@ section#awards div#Cisco:hover{
 div#curator-feed-default-feed-layout a{
   visibility: hidden;
 }
+ul#list-skills{
+  list-style: none;
+}
