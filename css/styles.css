@@ -10141,3 +10141,6 @@ section#awards div#Cisco:hover{
   font-size: 50px;
   list-style: none;
 }
+div#curator-feed-default-feed-layout a{
+  visibility: hidden;
+}
